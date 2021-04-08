@@ -19,6 +19,7 @@ button {
 	color: yellow;
 	font-size: inherit;
 	margin: 10px;
+	cursor: pointer;
 }
 
 .container {
