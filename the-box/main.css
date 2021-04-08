@@ -1,0 +1,38 @@
+
+@font-face {
+	font-family: '8-bit';
+	src: url('font.ttf');
+}
+
+* {
+	background: black;
+	color: yellow;
+	font-family: '8-bit';
+	font-size: 24px;
+}
+
+button {
+	padding: 10px;
+	border-radius: 10px;
+	border: 2px solid yellow;
+	background: magenta;
+	color: yellow;
+	font-size: inherit;
+	margin: 10px;
+}
+
+.container {
+	width: 80%;
+}
+
+.download {
+	text-align: left;
+}
+
+.description {
+	text-align: left;
+}
+
+.main {
+	padding: 5px;
+}
