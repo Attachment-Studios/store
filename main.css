@@ -6,6 +6,10 @@
 	font-family: monospace;
 }
 
+section {
+	display: inline-flex;
+}
+
 h1 {
 	font-size: 64px;
 	margin: 0;
